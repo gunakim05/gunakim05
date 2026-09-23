@@ -17,4 +17,8 @@ University of Toronto - Physics Specialist (HBSc) expected 2028
 
 ### Circuit Lab Ohm's Law Figure & Caption
 
+Python analysis of experimental measurements using curve fit, uncertainty analysis and visualization.
+
+
+
 [View Project](projects/ohms-lab-figure-caption.py)
