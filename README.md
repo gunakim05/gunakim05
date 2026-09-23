@@ -17,4 +17,4 @@ University of Toronto - Physics Specialist (HBSc) expected 2028
 
 ### Circuit Lab Ohm's Law Figure & Caption
 
-[View Project](projects/ohms-lab-figure-caption)
+[View Project](projects/ohms-lab-figure-caption.py)
