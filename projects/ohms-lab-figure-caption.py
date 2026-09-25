@@ -1,3 +1,5 @@
+'''The goal of this lab was to measure the current through a 470 Ohm resistor and find the appropriate parameters for a linear model'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
