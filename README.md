@@ -21,5 +21,5 @@ Python analysis of experimental measurements using curve fit, uncertainty analys
 
 
 
-[View Project](projects/ohms-lab-figure-caption.py)
-[View Project](projects/light_bulb.py)
+[Ohm's Law](projects/ohms-lab-figure-caption.py)
+[Light Bulb](projects/light_bulb.py)
